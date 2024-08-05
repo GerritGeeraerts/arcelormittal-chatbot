@@ -44,6 +44,7 @@ graph TD;
     └── utils.py  # scrapy utils
 ```
 # Setup
+I created the project using Python 3.12
 Set `OPENAI_API_KEY=sk-...` to your Openai key as an environment variable.
 ```bash
 # Install requirements
